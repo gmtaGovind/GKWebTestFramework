@@ -1,0 +1,6 @@
+framework module Pods_GKWebTestFramework {
+  umbrella header "Pods-GKWebTestFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}
